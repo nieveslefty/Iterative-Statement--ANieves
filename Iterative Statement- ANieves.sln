@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterative Statement- ANieves", "Iterative Statement- ANieves.csproj", "{823075A8-F710-4042-AA94-616F538A60C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823075A8-F710-4042-AA94-616F538A60C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823075A8-F710-4042-AA94-616F538A60C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823075A8-F710-4042-AA94-616F538A60C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823075A8-F710-4042-AA94-616F538A60C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6C96884-1D9B-41B5-AB2A-9338A692389F}
+	EndGlobalSection
+EndGlobal
